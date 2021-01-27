@@ -1,0 +1,529 @@
+NAME,TEAM,SALARY
+Stephen Curry,Golden State Warriors,40231758
+Russell Westbrook,Houston Rockets,38506482
+Chris Paul,Oklahoma City Thunder,38506482
+James Harden,Houston Rockets,38199000
+Kevin Durant,Brooklyn Nets,38199000
+John Wall,Houston Rockets,38199000
+LeBron James,Los Angeles Lakers,37436858
+Kyle Lowry,Toronto Raptors,34996296
+Blake Griffin,Detroit Pistons,34449964
+Tobias Harris,Philadelphia 76ers,32742000
+Jimmy Butler,Miami Heat,32742000
+Kawhi Leonard,LA Clippers,32742000
+Klay Thompson,Golden State Warriors,32742000
+Kemba Walker,Boston Celtics,32742000
+Gordon Hayward,Boston Celtics,32700690
+Mike Conley,Utah Jazz,32511624
+Kyrie Irving,Brooklyn Nets,31742000
+Khris Middleton,Milwaukee Bucks,30603448
+Paul George,LA Clippers,30560700
+Paul Millsap,Denver Nuggets,30350000
+Damian Lillard,Portland Trail Blazers,29802321
+Kevin Love,Cleveland Cavaliers,28942830
+Al Horford,Philadelphia 76ers,28000000
+Nikola Vucevic,Orlando Magic,28000000
+DeMar DeRozan,San Antonio Spurs,27739975
+CJ McCollum,Portland Trail Blazers,27556959
+Joel Embiid,Philadelphia 76ers,27504630
+Andrew Wiggins,Minnesota Timberwolves,27504630
+Nikola Jokic,Denver Nuggets,27504630
+Devin Booker,Phoenix Suns,27285000
+D'Angelo Russell,Minnesota Timberwolves,27285000
+Karl-Anthony Towns,Minnesota Timberwolves,27285000
+Kristaps Porzingis,Dallas Mavericks,27285000
+Otto Porter Jr.,Chicago Bulls,27250575
+Bradley Beal,Washington Wizards,27093019
+Andre Drummond,Detroit Pistons,27093019
+Anthony Davis,Los Angeles Lakers,27093018
+Hassan Whiteside,Portland Trail Blazers,27093017
+Jrue Holiday,New Orleans Pelicans,26231111
+LaMarcus Aldridge,San Antonio Spurs,26000000
+Giannis Antetokounmpo,Milwaukee Bucks,25842697
+Steven Adams,Oklahoma City Thunder,25842697
+Marc Gasol,Toronto Raptors,25595700
+Nicolas Batum,Charlotte Hornets,25565217
+Chandler Parsons,Atlanta Hawks,25102511
+Harrison Barnes,Sacramento Kings,24147727
+Serge Ibaka,Toronto Raptors,23271604
+Rudy Gobert,Utah Jazz,23241573
+Danilo Gallinari,Oklahoma City Thunder,22615559
+Victor Oladipo,Indiana Pacers,21000000
+Tim Hardaway Jr.,Dallas Mavericks,20025127
+Malcolm Brogdon,Indiana Pacers,20000000
+Terry Rozier,Charlotte Hornets,19894737
+Aaron Gordon,Orlando Magic,19863636
+Zach LaVine,Chicago Bulls,19500000
+Kent Bazemore,Sacramento Kings,19269662
+Goran Dragic,Miami Heat,19217900
+Jeff Teague,Minnesota Timberwolves,19000000
+Evan Turner,Atlanta Hawks,18606556
+Draymond Green,Golden State Warriors,18539130
+Tristan Thompson,Cleveland Cavaliers,18539130
+Allen Crabbe,Minnesota Timberwolves,18500000
+Julius Randle,New York Knicks,18000000
+Myles Turner,Indiana Pacers,18000000
+Gary Harris,Denver Nuggets,17839286
+Derrick Favors,New Orleans Pelicans,17650000
+Andre Iguodala,Miami Heat,17185185
+Evan Fournier,Orlando Magic,17150000
+Bismack Biyombo,Charlotte Hornets,17000000
+Bojan Bogdanovic,Utah Jazz,17000000
+Timofey Mozgov,Orlando Magic,16720000
+Gorgui Dieng,Memphis Grizzlies,16229213
+Ricky Rubio,Phoenix Suns,16200000
+Jonas Valanciunas,Memphis Grizzlies,16000000
+Brandon Knight,Detroit Pistons,15643750
+Kelly Oubre Jr.,Phoenix Suns,15625000
+Eric Bledsoe,Milwaukee Bucks,15625000
+Dennis Schroder,Oklahoma City Thunder,15500000
+Ian Mahinmi,Washington Wizards,15450051
+James Johnson,Minnesota Timberwolves,15349400
+Bobby Portis,New York Knicks,15000000
+Marcus Morris Sr.,New York Knicks,15000000
+Clint Capela,Houston Rockets,14896552
+Luke Babbitt,Miami Heat,14651700
+Danny Green,Los Angeles Lakers,14634146
+Rudy Gay,San Antonio Spurs,14500000
+Cody Zeller,Charlotte Hornets,14471910
+Eric Gordon,Houston Rockets,14057730
+Mason Plumlee,Denver Nuggets,14041096
+Marcin Gortat,LA Clippers,13565218
+JJ Redick,New Orleans Pelicans,13486300
+Jordan Clarkson,Utah Jazz,13437500
+Dewayne Dedmon,Sacramento Kings,13333333
+Jusuf Nurkic,Portland Trail Blazers,13125000
+Justise Winslow,Miami Heat,13000000
+Thaddeus Young,Chicago Bulls,12900000
+Will Barton,Denver Nuggets,12776786
+Courtney Lee,Dallas Mavericks,12759670
+Solomon Hill,Memphis Grizzlies,12758781
+Larry Nance Jr.,Cleveland Cavaliers,12727273
+Kelly Olynyk,Miami Heat,12667885
+Marcus Smart,Boston Celtics,12553571
+Miles Plumlee,Memphis Grizzlies,12500000
+Terrence Ross,Orlando Magic,12500000
+Nikola Mirotic,Milwaukee Bucks,12500000
+Patty Mills,San Antonio Spurs,12428571
+Tyreke Evans,Indiana Pacers,12400000
+Patrick Beverley,LA Clippers,12345680
+Trevor Ariza,Sacramento Kings,12195122
+Brook Lopez,Milwaukee Bucks,12093023
+Cory Joseph,Sacramento Kings,12000000
+Joe Ingles,Utah Jazz,11954546
+Zach Randolph,Dallas Mavericks,11692308
+Tony Snell,Detroit Pistons,11392857
+Robert Covington,Minnesota Timberwolves,11301219
+Meyers Leonard,Miami Heat,11286516
+Omer Asik,Chicago Bulls,11286516
+Maurice Harkless,New York Knicks,11011234
+T.J. Warren,Indiana Pacers,10810000
+Andre Roberson,Oklahoma City Thunder,10740740
+Spencer Dinwiddie,Brooklyn Nets,10605600
+Jeremy Lamb,Indiana Pacers,10500000
+Dwight Powell,Dallas Mavericks,10259375
+Norman Powell,Toronto Raptors,10116576
+Josh Richardson,Philadelphia 76ers,10116576
+Darren Collison,Indiana Pacers,10000000
+Tomas Satoransky,Chicago Bulls,10000000
+DeAndre Jordan,Brooklyn Nets,9881598
+Zion Williamson,New Orleans Pelicans,9757440
+Markelle Fultz,Orlando Magic,9745200
+John Henson,Detroit Pistons,9732396
+Matthew Dellavedova,Cleveland Cavaliers,9607500
+Dante Exum,Utah Jazz,9600000
+Deandre Ayton,Phoenix Suns,9562920
+Delon Wright,Dallas Mavericks,9473684
+Fred VanVleet,Toronto Raptors,9346153
+Jerami Grant,Denver Nuggets,9346153
+Tyus Jones,Memphis Grizzlies,9258000
+Al-Farouq Aminu,Orlando Magic,9258000
+George Hill,Milwaukee Bucks,9133907
+Kyle Anderson,Memphis Grizzlies,9073050
+Taj Gibson,New York Knicks,9000000
+Ja Morant,Memphis Grizzlies,8730240
+Lonzo Ball,New Orleans Pelicans,8719320
+E'Twaun Moore,New Orleans Pelicans,8664928
+Marvin Bagley III,Sacramento Kings,8556120
+Bogdan Bogdanovic,Sacramento Kings,8529386
+P.J. Tucker,Houston Rockets,8349039
+C.J. Miles,Washington Wizards,8333333
+Cristiano Felicio,Chicago Bulls,8156500
+Ben Simmons,Philadelphia 76ers,8113930
+Kentavious Caldwell-Pope,Los Angeles Lakers,8089282
+Thomas Bryant,Washington Wizards,8000000
+Elfrid Payton,New York Knicks,8000000
+Lou Williams,LA Clippers,8000000
+Wayne Ellington,New York Knicks,8000000
+Maxi Kleber,Dallas Mavericks,8000000
+RJ Barrett,New York Knicks,7839960
+Jayson Tatum,Boston Celtics,7830000
+Jae Crowder,Memphis Grizzlies,7815533
+Luka Doncic,Dallas Mavericks,7683360
+Joe Harris,Brooklyn Nets,7666667
+Darrell Arthur,Phoenix Suns,7464912
+Seth Curry,Dallas Mavericks,7461380
+Langston Galloway,Detroit Pistons,7333333
+Doug McDermott,Indiana Pacers,7333333
+Derrick Rose,Detroit Pistons,7317073
+Brandon Ingram,New Orleans Pelicans,7265485
+D.J. Augustin,Orlando Magic,7250000
+Lance Thomas,Brooklyn Nets,7119650
+De'Andre Hunter,Atlanta Hawks,7068360
+Josh Jackson,Memphis Grizzlies,7059480
+Davis Bertans,Washington Wizards,7000000
+Darius Miller,Oklahoma City Thunder,7000000
+Ersan Ilyasova,Milwaukee Bucks,7000000
+Jaren Jackson Jr.,Memphis Grizzlies,6927480
+Nemanja Bjelica,Sacramento Kings,6825000
+Jaylen Brown,Boston Celtics,6534829
+Jabari Parker,Sacramento Kings,6500000
+Ivica Zubac,LA Clippers,6481482
+Darius Garland,Cleveland Cavaliers,6400920
+De'Aaron Fox,Sacramento Kings,6392760
+Milos Teodosic,LA Clippers,6300000
+Trae Young,Atlanta Hawks,6273000
+Wesley Johnson,Washington Wizards,6134520
+Ish Smith,Washington Wizards,6000000
+Montrezl Harrell,LA Clippers,6000000
+Marco Belinelli,San Antonio Spurs,5846154
+Jarrett Culver,Minnesota Timberwolves,5813640
+Jonathan Isaac,Orlando Magic,5806440
+Rodney Hood,Portland Trail Blazers,5718000
+Jonathon Simmons,Washington Wizards,5700000
+Mo Bamba,Orlando Magic,5697600
+Trey Lyles,San Antonio Spurs,5500000
+Alex Abrines,Oklahoma City Thunder,5455236
+Aron Baynes,Phoenix Suns,5453280
+Jason Smith,New Orleans Pelicans,5450000
+Kris Dunn,Chicago Bulls,5348007
+Coby White,Chicago Bulls,5307120
+Lauri Markkanen,Chicago Bulls,5300400
+Alexis Ajinca,LA Clippers,5285394
+Wendell Carter Jr.,Chicago Bulls,5201400
+Dirk Nowitzki,Dallas Mavericks,5000000
+Daniel Theis,Boston Celtics,5000000
+Kyle Singler,Oklahoma City Thunder,4996000
+Jaxson Hayes,New Orleans Pelicans,4862040
+Buddy Hield,Sacramento Kings,4861208
+Frank Ntilikina,New York Knicks,4855800
+Rodney McGruder,LA Clippers,4807693
+Robin Lopez,Milwaukee Bucks,4767000
+Richaun Holmes,Sacramento Kings,4767000
+Enes Kanter,Boston Celtics,4767000
+Frank Kaminsky,Phoenix Suns,4767000
+Mike Scott,Philadelphia 76ers,4767000
+Ed Davis,Utah Jazz,4767000
+Avery Bradley,Los Angeles Lakers,4767000
+Justin Holiday,Indiana Pacers,4767000
+JaMychal Green,LA Clippers,4767000
+Garrett Temple,Brooklyn Nets,4767000
+Collin Sexton,Cleveland Cavaliers,4764960
+Rui Hachimura,Washington Wizards,4469160
+Kevon Looney,Golden State Warriors,4464226
+Dennis Smith Jr.,New York Knicks,4463640
+Jamal Murray,Denver Nuggets,4444746
+Kevin Knox II,New York Knicks,4380120
+Luc Mbah a Moute,Houston Rockets,4320500
+Cam Reddish,Atlanta Hawks,4245720
+Zach Collins,Portland Trail Blazers,4240200
+Mikal Bridges,Phoenix Suns,4161000
+Alex Len,Sacramento Kings,4160000
+Nicolo Melli,New Orleans Pelicans,4102564
+Cameron Johnson,Phoenix Suns,4033440
+Malik Monk,Charlotte Hornets,4028400
+Patrick McCaw,Toronto Raptors,4000000
+Reggie Bullock,New York Knicks,4000000
+Dorian Finney-Smith,Dallas Mavericks,4000000
+JaVale McGee,Los Angeles Lakers,4000000
+Shai Gilgeous-Alexander,Oklahoma City Thunder,3952920
+P.J. Washington,Charlotte Hornets,3831840
+Luke Kennard,Detroit Pistons,3827160
+Miles Bridges,Charlotte Hornets,3755400
+Jakob Poeltl,San Antonio Spurs,3754886
+Tyler Herro,Miami Heat,3640200
+Donovan Mitchell,Utah Jazz,3635760
+Stanley Johnson,Toronto Raptors,3623000
+Jake Layman,Minnesota Timberwolves,3581986
+Thon Maker,Detroit Pistons,3569643
+Jerome Robinson,Washington Wizards,3567720
+Allonzo Trier,New York Knicks,3551000
+Danuel House Jr.,Houston Rockets,3540000
+Domantas Sabonis,Indiana Pacers,3529555
+Michael Beasley,Brooklyn Nets,3500000
+T.J. McConnell,Indiana Pacers,3500000
+DeMarcus Cousins,Houston Rockets,3500000
+Boban Marjanovic,Dallas Mavericks,3500000
+Dario Saric,Phoenix Suns,3481986
+Taurean Prince,Brooklyn Nets,3481986
+Romeo Langford,Boston Celtics,3458400
+Bam Adebayo,Miami Heat,3454080
+Michael Porter Jr.,Denver Nuggets,3389400
+Denzel Valentine,Chicago Bulls,3377569
+Juancho Hernangomez,Minnesota Timberwolves,3321030
+Sekou Doumbouya,Detroit Pistons,3285120
+Justin Jackson,Dallas Mavericks,3280920
+Troy Brown Jr.,Washington Wizards,3219480
+Yogi Ferrell,Sacramento Kings,3150000
+Zhaire Smith,Philadelphia 76ers,3058800
+Khem Birch,Orlando Magic,3000000
+Quinn Cook,Los Angeles Lakers,3000000
+Ryan Arcidiacono,Chicago Bulls,3000000
+Nickeil Alexander-Walker,New Orleans Pelicans,2964840
+D.J. Wilson,Milwaukee Bucks,2961120
+Cedi Osman,Cleveland Cavaliers,2907143
+Donte DiVincenzo,Milwaukee Bucks,2905800
+Bryn Forbes,San Antonio Spurs,2875000
+Goga Bitadze,Indiana Pacers,2816760
+T.J. Leaf,Indiana Pacers,2813280
+Alex Caruso,Los Angeles Lakers,2750000
+Malik Beasley,Minnesota Timberwolves,2731714
+Luka Samanic,San Antonio Spurs,2689920
+Lonnie Walker IV,San Antonio Spurs,2689920
+John Collins,Atlanta Hawks,2686560
+Kevin Huerter,Atlanta Hawks,2636280
+Caris LeVert,Brooklyn Nets,2625718
+Marko Guduric,Memphis Grizzlies,2625000
+DeAndre' Bembry,Atlanta Hawks,2603982
+Matisse Thybulle,Philadelphia 76ers,2582160
+Harry Giles III,Sacramento Kings,2578800
+Wesley Matthews,Milwaukee Bucks,2564753
+Rajon Rondo,Los Angeles Lakers,2564753
+Nene Hilario,Atlanta Hawks,2564753
+Josh Okogie,Minnesota Timberwolves,2530680
+Vincent Poirier,Boston Celtics,2505793
+Manu Ginobili,San Antonio Spurs,2500000
+Rondae Hollis-Jefferson,Toronto Raptors,2500000
+Brandon Clarke,Memphis Grizzlies,2478840
+Terrance Ferguson,Oklahoma City Thunder,2475840
+Emeka Okafor,Philadelphia 76ers,2445085
+Kendrick Perkins,Cleveland Cavaliers,2445085
+Grayson Allen,Memphis Grizzlies,2429400
+Grant Williams,Boston Celtics,2379840
+Jarrett Allen,Brooklyn Nets,2376840
+Pascal Siakam,Toronto Raptors,2351839
+Skal Labissiere,Portland Trail Blazers,2338847
+Chandler Hutchison,Chicago Bulls,2332320
+Aaron Holiday,Indiana Pacers,2329200
+Dejounte Murray,San Antonio Spurs,2321735
+Damian Jones,Atlanta Hawks,2305057
+Darius Bazley,Oklahoma City Thunder,2284800
+OG Anunoby,Toronto Raptors,2281800
+Ante Zizic,Cleveland Cavaliers,2281800
+Luke Kornet,Chicago Bulls,2250000
+Brandon Jennings,Milwaukee Bucks,2222803
+Ty Jerome,Phoenix Suns,2193480
+Willie Cauley-Stein,Golden State Warriors,2177483
+Anfernee Simons,Portland Trail Blazers,2149560
+Austin Rivers,Houston Rockets,2147317
+Nassir Little,Portland Trail Blazers,2105520
+Moritz Wagner,Washington Wizards,2063520
+Sean Kilpatrick,Chicago Bulls,2054856
+Dylan Windler,Cleveland Cavaliers,2035800
+Caleb Swanigan,Sacramento Kings,2033160
+Mike Muscala,Oklahoma City Thunder,2028594
+Ben McLemore,Houston Rockets,2028594
+Torrey Craig,Denver Nuggets,2000000
+Edmond Sumner,Indiana Pacers,2000000
+Noah Vonleh,Minnesota Timberwolves,2000000
+Landry Shamet,LA Clippers,1995120
+Mfiondu Kabengele,LA Clippers,1977000
+Kyle Kuzma,Los Angeles Lakers,1974600
+Jordan Poole,Golden State Warriors,1964760
+Tony Bradley,Utah Jazz,1962360
+Keldon Johnson,San Antonio Spurs,1950600
+Derrick White,San Antonio Spurs,1948080
+Robert Williams III,Boston Celtics,1937520
+Jacob Evans,Minnesota Timberwolves,1925880
+Dzanan Musa,Brooklyn Nets,1911600
+Omari Spellman,Golden State Warriors,1897800
+James Ennis III,Philadelphia 76ers,1882867
+Shabazz Napier,Washington Wizards,1845301
+Bruno Caboclo,Memphis Grizzlies,1845301
+DeAndre Liggins,Miami Heat,1795015
+Markieff Morris,Los Angeles Lakers,1750000
+Mario Hezonja,Portland Trail Blazers,1737145
+Cameron Payne,Phoenix Suns,1737145
+Pat Connaughton,Milwaukee Bucks,1723050
+Jahlil Okafor,New Orleans Pelicans,1702486
+Rodions Kurucs,Brooklyn Nets,1699236
+Jonah Bolden,Phoenix Suns,1698450
+Cheick Diallo,Phoenix Suns,1678854
+Dragan Bender,Milwaukee Bucks,1678854
+Willy Hernangomez,Charlotte Hornets,1676735
+Julyan Stone,Chicago Bulls,1656092
+MarShon Brooks,Chicago Bulls,1656092
+Josh Hart,New Orleans Pelicans,1655160
+Georges Niang,Utah Jazz,1645357
+Derrick Jones Jr.,Miami Heat,1645357
+Treveon Graham,Minnesota Timberwolves,1645357
+Christian Wood,Detroit Pistons,1645357
+Jordan McRae,Washington Wizards,1645357
+Tim Frazier,Detroit Pistons,1620564
+Isaiah Taylor,Toronto Raptors,1620564
+Raul Neto,Philadelphia 76ers,1620564
+Emmanuel Mudiay,Utah Jazz,1620564
+Shaquille Harrison,Chicago Bulls,1620564
+Tyler Lydon,Sacramento Kings,1620564
+Glenn Robinson III,Philadelphia 76ers,1620564
+Furkan Korkmaz,Philadelphia 76ers,1620564
+Kyle O'Quinn,Philadelphia 76ers,1620564
+Dwight Howard,Los Angeles Lakers,1620564
+Michael Carter-Williams,Orlando Magic,1620564
+Nerlens Noel,Oklahoma City Thunder,1620564
+Alec Burks,Philadelphia 76ers,1620564
+Wilson Chandler,Brooklyn Nets,1620564
+Justin Patton,Oklahoma City Thunder,1620564
+Kyle Korver,Milwaukee Bucks,1620564
+Udonis Haslem,Miami Heat,1620564
+Jordan Bell,Memphis Grizzlies,1620564
+Jared Dudley,Los Angeles Lakers,1620564
+Isaiah Thomas,Washington Wizards,1620564
+Patrick Patterson,LA Clippers,1620564
+JaKarr Sampson,Indiana Pacers,1620564
+Ryan Anderson,Houston Rockets,1620564
+Thabo Sefolosha,Houston Rockets,1620564
+Gerald Green,Houston Rockets,1620564
+Tyson Chandler,Houston Rockets,1620564
+Joe Johnson,Detroit Pistons,1620564
+Trey Burke,Philadelphia 76ers,1620564
+J.J. Barea,Dallas Mavericks,1620564
+Jarell Martin,Cleveland Cavaliers,1620564
+Vince Carter,Atlanta Hawks,1620564
+Dillon Brooks,Memphis Grizzlies,1618520
+Royce O'Neale,Utah Jazz,1618520
+Abdel Nader,Oklahoma City Thunder,1618520
+Dwayne Bacon,Charlotte Hornets,1618520
+Sterling Brown,Milwaukee Bucks,1618520
+Frank Jackson,New Orleans Pelicans,1618520
+Damyean Dotson,New York Knicks,1618520
+Semi Ojeleye,Boston Celtics,1618520
+Wes Iwundu,Orlando Magic,1618420
+Dwight Buycks,Detroit Pistons,1600520
+Mitchell Robinson,New York Knicks,1599712
+Chris Boucher,Toronto Raptors,1588231
+Malcolm Miller,Toronto Raptors,1588231
+Monte Morris,Denver Nuggets,1588231
+Antonio Blakeney,Chicago Bulls,1588231
+Tyrone Wallace,Atlanta Hawks,1588231
+Malachi Richardson,Philadelphia 76ers,1569360
+Georgios Papagiannis,Portland Trail Blazers,1544951
+Chinanu Onuaku,Portland Trail Blazers,1544951
+Wade Baldwin IV,Cleveland Cavaliers,1544951
+Isaiah Whitehead,Detroit Pistons,1544951
+Paul Zipser,Chicago Bulls,1544951
+Amile Jefferson,Orlando Magic,1529007
+Omri Casspi,Memphis Grizzlies,1512601
+Lorenzo Brown,Guangzhou Guangzhou Long-Lions,1512601
+Isaiah Canaan,Milwaukee Bucks,1512601
+Dwyane Wade,Miami Heat,1512601
+Nigel Williams-Goss,Utah Jazz,1500000
+Isaiah Roby,Oklahoma City Thunder,1500000
+Alfonzo McKinnie,Cleveland Cavaliers,1500000
+Shake Milton,Philadelphia 76ers,1455697
+Derrick Walton Jr.,LA Clippers,1445697
+Theo Pinson,Brooklyn Nets,1445697
+Thanasis Antetokounmpo,Milwaukee Bucks,1445697
+Brad Wanamaker,Boston Celtics,1445697
+Wenyen Gabriel,Sacramento Kings,1445697
+Iman Shumpert,Brooklyn Nets,1419138
+Devonte' Graham,Charlotte Hornets,1416852
+De'Anthony Melton,Memphis Grizzlies,1416852
+Alize Johnson,Indiana Pacers,1416852
+Jemerrio Jones,Milwaukee Bucks,1416852
+Hamidou Diallo,Oklahoma City Thunder,1416852
+Kenrich Williams,New Orleans Pelicans,1416852
+Deonte Burton,Oklahoma City Thunder,1416852
+Khyri Thomas,Detroit Pistons,1416852
+Keita Bates-Diop,Minnesota Timberwolves,1416852
+Chimezie Metu,San Antonio Spurs,1416852
+Gary Trent Jr.,Portland Trail Blazers,1416852
+Jevon Carter,Phoenix Suns,1416852
+Ryan Broekhoff,Dallas Mavericks,1416852
+Melvin Frazier Jr.,Orlando Magic,1416852
+Elie Okobo,Phoenix Suns,1416852
+Bruce Brown,Detroit Pistons,1416852
+Jarred Vanderbilt,Minnesota Timberwolves,1416852
+Duncan Robinson,Miami Heat,1416852
+Kendrick Nunn,Miami Heat,1416852
+Svi Mykhailiuk,Detroit Pistons,1416852
+Isaiah Hartenstein,Houston Rockets,1416852
+Jalen Brunson,Dallas Mavericks,1416852
+Dairis Bertans,New Orleans Pelicans,1416852
+Yante Maten,Boston Celtics,1416852
+Isaac Bonga,Washington Wizards,1416842
+Tarik Phillip,Washington Wizards,1416842
+Jaylen Nowell,Minnesota Timberwolves,1400000
+Bruno Fernando,Atlanta Hawks,1400000
+Dakari Johnson,Memphis Grizzlies,1378242
+Kyle Collinsworth,Utah Jazz,1378242
+Brandon Paul,San Antonio Spurs,1378242
+Jaylen Morris,Milwaukee Bucks,1378242
+Rodney Purvis,Miami Heat,1378242
+David Stockton,Los Angeles Lakers,1378242
+Zhou Qi,Houston Rockets,1378242
+Aaron Jackson,Houston Rockets,1378242
+Ike Anigbogu,New Orleans Pelicans,1378242
+Carmelo Anthony,Portland Trail Blazers,1364204
+Jabari Bird,Atlanta Hawks,1349464
+Ben Moore,San Antonio Spurs,1349383
+James Nunnally,Shanghai Sharks,1349383
+Kevin Porter Jr.,Cleveland Cavaliers,1290960
+Carsen Edwards,Boston Celtics,1228026
+Okaro White,Washington Wizards,1187862
+Cody Martin,Charlotte Hornets,1173310
+Gary Payton II,Washington Wizards,1052909
+Nick Young,Denver Nuggets,1042584
+Admiral Schofield,Washington Wizards,1000000
+Terance Mann,LA Clippers,1000000
+Ron Baker,Washington Wizards,948580
+David Nwaba,Brooklyn Nets,903111
+Jalen McDaniels,Charlotte Hornets,898310
+Caleb Martin,Charlotte Hornets,898310
+Dewan Hernandez,Toronto Raptors,898310
+Terence Davis,Toronto Raptors,898310
+Matt Thomas,Toronto Raptors,898310
+Miye Oni,Utah Jazz,898310
+Stanton Kidd,Utah Jazz,898310
+Justin James,Sacramento Kings,898310
+Justin Robinson,Washington Wizards,898310
+Ignas Brazdeikis,New York Knicks,898310
+Nicolas Claxton,Brooklyn Nets,898310
+Naz Reid,Minnesota Timberwolves,898310
+KZ Okpala,Miami Heat,898310
+Max Strus,Chicago Bulls,898310
+Talen Horton-Tucker,Los Angeles Lakers,898310
+Jalen Lecque,Phoenix Suns,898310
+Alen Smailagic,Golden State Warriors,898310
+Eric Paschall,Golden State Warriors,898310
+Vlatko Cancar,Denver Nuggets,898310
+Daniel Gafford,Chicago Bulls,898310
+Javonte Green,Boston Celtics,898310
+Damion Lee,Golden State Warriors,842327
+Isaiah Briscoe,Orlando Magic,838464
+Juwan Morgan,Utah Jazz,746054
+Timothe Luwawu-Cabarrot,Brooklyn Nets,654469
+Marquese Chriss,Golden State Warriors,654469
+Marvin Williams,Charlotte Hornets,604278
+Michael Kidd-Gilchrist,Charlotte Hornets,595122
+Rayjon Tucker,Utah Jazz,578573
+Chris Clemons,Houston Rockets,563347
+Gary Clark,Orlando Magic,555409
+Brandon Goodwin,Atlanta Hawks,522738
+Reggie Jackson,LA Clippers,512721
+DeMarre Carroll,San Antonio Spurs,512721
+Anzejs Pasecniks,Washington Wizards,482144
+Chris Silva,Miami Heat,466918
+Jeff Green,Utah Jazz,439475
+Troy Daniels,Los Angeles Lakers,384541
+Dion Waiters,Miami Heat,375385
+Norvel Pelle,Philadelphia 76ers,350189
+Ky Bowman,Golden State Warriors,350189
+Juan Toscano-Anderson,Golden State Warriors,350189
+JR Smith,Los Angeles Lakers,289803
+Tyler Zeller,San Antonio Spurs,245686
+Jimmer Fredette,Phoenix Suns,208509
+Jontay Porter,Memphis Grizzlies,197933
+Anthony Tolliver,Memphis Grizzlies,183115
+Tyler Johnson,Phoenix Suns,183115
+Luguentz Dort,Oklahoma City Thunder,155647
